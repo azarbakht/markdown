@@ -1,4 +1,4 @@
-> hirozontal line
+> horizontal line
 ========
 
 #### code snippet
