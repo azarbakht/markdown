@@ -19,6 +19,23 @@ function fancyAlert(arg) {
 
 :shit:
 
+:star:
+
+:sparkles:
+
+:zzz:
+
+:exclamation:
+
+:bulb:
+
+:e-mail:
+
+:heavy_check_mark:
+
+:interrobang:
+
+::
 
 #### to-do list
 
